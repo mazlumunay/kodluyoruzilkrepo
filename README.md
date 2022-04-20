@@ -3,7 +3,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ------------------------------------------
 
-![github](ilkrepo.png) 
+![ilkrepo](https://user-images.githubusercontent.com/41474053/164220233-56760fbe-3653-4ef1-aa13-73a52cf4642a.png)
+
 
 ##  Installation
 Proje klonlama linki:
