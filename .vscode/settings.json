@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.fontSize": 22,
+    "terminal.integrated.lineHeight": 2,
+    "editor.fontSize": 18,
+    "scm.inputFontSize": 22,
+    "workbench.panel.defaultLocation": "bottom"
+}
